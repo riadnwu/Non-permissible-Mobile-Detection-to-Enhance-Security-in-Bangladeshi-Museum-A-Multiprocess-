@@ -8,6 +8,8 @@ The museum's main goal regarding security is to develop an automatic smartphone 
 
 ![image](https://github.com/user-attachments/assets/b86cde93-d26a-464f-8b73-05f42aacc016)
 
+![image](https://github.com/user-attachments/assets/0e4b9a08-fc0d-43f9-915c-69217d3c9a14)
+
 
 
 
