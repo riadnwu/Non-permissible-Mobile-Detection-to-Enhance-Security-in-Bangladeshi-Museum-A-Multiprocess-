@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/Camera Detection/all_fold/fold_3
+train: images/train
+val: images/test
+
+nc: 2
+names: ['phone', 'camera']
